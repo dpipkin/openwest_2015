@@ -1,3 +1,3 @@
 ##Take Note
 
-This is a talk I will be giving at OpenWest conference 2015
+This is going to be a talk about using Jupyter
